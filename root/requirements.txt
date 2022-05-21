@@ -1,0 +1,10 @@
+coloredlogs
+matplotlib
+pandas
+loguru
+boto3
+opencv-python
+bounding-box
+numpy
+Pillow
+imgaug

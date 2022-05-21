@@ -1,0 +1,6 @@
+path: A:/University/Final-Year-Project-AI/object-sense-avoid-ai/notebooks/yolov5/data/
+train: train.txt
+val: train.txt
+test: test.txt
+nc: 6
+names: ['Airplane', 'Helicopter', 'Drone', 'Airborne', 'Flock', 'Bird']
